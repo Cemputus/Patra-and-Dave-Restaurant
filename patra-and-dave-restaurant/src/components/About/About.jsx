@@ -1,5 +1,5 @@
 import React from 'react'
-// import ContactForm from './contactForm';
+ import ContactForm from './ContactForm';
 import Testimonial from './Testimonial';
 import ReviewAndRating from './ReviewAndRating';
 
