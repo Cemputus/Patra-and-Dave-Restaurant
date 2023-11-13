@@ -31,7 +31,7 @@ const Footer = () => {
             </div>
           </div>
           <div>
-            <p>©2023 BiteBliss | Shivang Patel</p>
+            <p>©2023 cen_prototype | Emmanuel</p>
             <div className="social-icons">
               <a href="#">
                 <img src="instagram-icon.png" alt="Instagram" className="image pizza-image" />
@@ -39,7 +39,7 @@ const Footer = () => {
               <a href="#">
                 <img src="linkedin-icon.png" alt="LinkedIn" className="image utensil-spoon-image" />
               </a>
-              <a href="mailto:your.email@example.com">
+              <a href="mailto:ensubuga019@gmail.com">
                 <img src="email-icon.png" alt="Email" />
               </a>
             </div>
